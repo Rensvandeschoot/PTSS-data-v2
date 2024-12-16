@@ -1,3 +1,6 @@
+# ignore data
+data/PTSS_Data_Synergy-relabeled.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
